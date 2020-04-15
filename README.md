@@ -1,0 +1,1 @@
+Simple SQL Server connection tester, a command line program written in C# for .NET 4.6 or newer. Uses the System.Data.SqlClient to connect to a server and database specified in the app.config file and retrieves a list of databases. If a connection cannot be made or another error occurs, exceptions are written to the console.
